@@ -2,7 +2,7 @@
 
 A clean dual-monitor configuration using:
 - [Hyprland](https://github.com/hyprwm/Hyprland)
-- [Omarchy](https://github.com/omarchy/omarchy)
+- Omarchy
 - [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces)
 - [Waybar](https://github.com/Alexays/Waybar)
 
